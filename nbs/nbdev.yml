@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "robocopy"
+  site-url: "https://agmontesb.github.io/robocopy"
+  description: "Mimic microdoft robocopy command"
+  repo-branch: main
+  repo-url: "https://github.com/agmontesb/robocopy"
